@@ -1,0 +1,251 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss">
+    <title>USGS Significant Earthquakes, Past Month</title>
+    <updated>2018-08-19T09:56:17Z</updated>
+    <author>
+        <name>U.S. Geological Survey</name>
+        <uri>https://earthquake.usgs.gov/</uri>
+    </author>
+    <id>
+        https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.atom
+    </id>
+    <link rel="self" href="https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.atom"/>
+    <icon>https://earthquake.usgs.gov/favicon.ico</icon>
+    <entry>
+        <id>urn:earthquake-usgs-gov:us:1000gcwt</id>
+        <title>M 6.8 - 282km ESE of Lambasa, Fiji</title>
+        <updated>2018-08-19T06:31:54.939Z</updated>
+        <link rel="alternate" type="text/html" href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gcwt"/>
+        <summary type="html">
+            <![CDATA[
+<p class="quicksummary"><a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gcwt#pager" title="PAGER estimated impact alert level" class="pager-green">PAGER - <strong class="roman">GREEN</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gcwt#shakemap" title="ShakeMap maximum estimated intensity" class="mmi-III">ShakeMap - <strong class="roman">III</strong></a> <a class="tsunamilogo" href="http://www.tsunami.gov/" title="Tsunami Warning Center"> <img src="https://earthquake.usgs.gov/earthquakes/feed/v1.0/images/tsunami-wave-warning.jpg" alt="Tsunami Warning Center"/></a></p><dl><dt>Time</dt><dd>2018-08-19 04:28:59 UTC</dd><dd>2018-08-18 16:28:59 -12:00 at epicenter</dd><dt>Location</dt><dd>16.951&deg;S 178.022&deg;W</dd><dt>Depth</dt><dd>422.83 km (262.73 mi)</dd></dl>
+]]>
+        </summary>
+        <georss:point>-16.951 -178.0223</georss:point>
+        <georss:elev>-422830</georss:elev>
+        <category label="Age" term="Past Day"/>
+        <category label="Magnitude" term="Magnitude 6"/>
+        <category label="Contributor" term="us"/>
+        <category label="Author" term="us"/>
+    </entry>
+    <entry>
+        <id>urn:earthquake-usgs-gov:us:1000gcvr</id>
+        <title>M 6.3 - 6km NE of Sembalunlawang, Indonesia</title>
+        <updated>2018-08-19T09:31:58.597Z</updated>
+        <link rel="alternate" type="text/html" href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gcvr"/>
+        <summary type="html">
+            <![CDATA[
+<p class="quicksummary"><a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gcvr#pager" title="PAGER estimated impact alert level" class="pager-green">PAGER - <strong class="roman">GREEN</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gcvr#shakemap" title="ShakeMap maximum estimated intensity" class="mmi-VII">ShakeMap - <strong class="roman">VII</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gcvr#dyfi" class="mmi-IV" title="Did You Feel It? maximum reported intensity (72 reports)">DYFI? - <strong class="roman">IV</strong></a> <a class="tsunamilogo" href="http://www.tsunami.gov/" title="Tsunami Warning Center"> <img src="https://earthquake.usgs.gov/earthquakes/feed/v1.0/images/tsunami-wave-warning.jpg" alt="Tsunami Warning Center"/></a></p><dl><dt>Time</dt><dd>2018-08-19 04:10:21 UTC</dd><dd>2018-08-19 12:10:21 +08:00 at epicenter</dd><dt>Location</dt><dd>8.325&deg;S 116.577&deg;E</dd><dt>Depth</dt><dd>7.91 km (4.92 mi)</dd></dl>
+]]>
+        </summary>
+        <georss:point>-8.3246 116.5765</georss:point>
+        <georss:elev>-7910</georss:elev>
+        <category label="Age" term="Past Day"/>
+        <category label="Magnitude" term="Magnitude 6"/>
+        <category label="Contributor" term="us"/>
+        <category label="Author" term="us"/>
+    </entry>
+    <entry>
+        <id>urn:earthquake-usgs-gov:us:1000gcnc</id>
+        <title>M 6.3 - 259km NNE of Ndoi Island, Fiji</title>
+        <updated>2018-08-19T05:42:59.819Z</updated>
+        <link rel="alternate" type="text/html" href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gcnc"/>
+        <summary type="html">
+            <![CDATA[
+<p class="quicksummary"><a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gcnc#pager" title="PAGER estimated impact alert level" class="pager-green">PAGER - <strong class="roman">GREEN</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gcnc#shakemap" title="ShakeMap maximum estimated intensity" class="mmi-II">ShakeMap - <strong class="roman">II</strong></a></p><dl><dt>Time</dt><dd>2018-08-19 00:23:02 UTC</dd><dd>2018-08-18 12:23:02 -12:00 at epicenter</dd><dt>Location</dt><dd>18.399&deg;S 177.999&deg;W</dd><dt>Depth</dt><dd>561.11 km (348.66 mi)</dd></dl>
+]]>
+        </summary>
+        <georss:point>-18.3992 -177.9994</georss:point>
+        <georss:elev>-561110</georss:elev>
+        <category label="Age" term="Past Day"/>
+        <category label="Magnitude" term="Magnitude 6"/>
+        <category label="Contributor" term="us"/>
+        <category label="Author" term="us"/>
+    </entry>
+    <entry>
+        <id>urn:earthquake-usgs-gov:us:1000gcii</id>
+        <title>M 8.2 - 280km NNE of Ndoi Island, Fiji</title>
+        <updated>2018-08-19T02:22:21.408Z</updated>
+        <link rel="alternate" type="text/html" href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gcii"/>
+        <summary type="html">
+            <![CDATA[
+<p class="quicksummary"><a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gcii#pager" title="PAGER estimated impact alert level" class="pager-green">PAGER - <strong class="roman">GREEN</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gcii#shakemap" title="ShakeMap maximum estimated intensity" class="mmi-V">ShakeMap - <strong class="roman">V</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gcii#dyfi" class="mmi-V" title="Did You Feel It? maximum reported intensity (7 reports)">DYFI? - <strong class="roman">V</strong></a> <a class="tsunamilogo" href="http://www.tsunami.gov/" title="Tsunami Warning Center"> <img src="https://earthquake.usgs.gov/earthquakes/feed/v1.0/images/tsunami-wave-warning.jpg" alt="Tsunami Warning Center"/></a></p><dl><dt>Time</dt><dd>2018-08-19 00:19:37 UTC</dd><dd>2018-08-18 12:19:37 -12:00 at epicenter</dd><dt>Location</dt><dd>18.178&deg;S 178.111&deg;W</dd><dt>Depth</dt><dd>563.41 km (350.09 mi)</dd></dl>
+]]>
+        </summary>
+        <georss:point>-18.1777 -178.1109</georss:point>
+        <georss:elev>-563410</georss:elev>
+        <category label="Age" term="Past Day"/>
+        <category label="Magnitude" term="Magnitude 8"/>
+        <category label="Contributor" term="us"/>
+        <category label="Author" term="us"/>
+    </entry>
+    <entry>
+        <id>urn:earthquake-usgs-gov:us:1000gc0k</id>
+        <title>M 6.1 - 14km N of Golfito, Costa Rica</title>
+        <updated>2018-08-18T21:41:32.279Z</updated>
+        <link rel="alternate" type="text/html" href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gc0k"/>
+        <summary type="html">
+            <![CDATA[
+<p class="quicksummary"><a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gc0k#pager" title="PAGER estimated impact alert level" class="pager-green">PAGER - <strong class="roman">GREEN</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gc0k#shakemap" title="ShakeMap maximum estimated intensity" class="mmi-VI">ShakeMap - <strong class="roman">VI</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gc0k#dyfi" class="mmi-VII" title="Did You Feel It? maximum reported intensity (114 reports)">DYFI? - <strong class="roman">VII</strong></a></p><dl><dt>Time</dt><dd>2018-08-17 23:22:24 UTC</dd><dd>2018-08-17 17:22:24 -06:00 at epicenter</dd><dt>Location</dt><dd>8.769&deg;N 83.153&deg;W</dd><dt>Depth</dt><dd>15.00 km (9.32 mi)</dd></dl>
+]]>
+        </summary>
+        <georss:point>8.7694 -83.1531</georss:point>
+        <georss:elev>-15000</georss:elev>
+        <category label="Age" term="Past Week"/>
+        <category label="Magnitude" term="Magnitude 6"/>
+        <category label="Contributor" term="us"/>
+        <category label="Author" term="us"/>
+    </entry>
+    <entry>
+        <id>urn:earthquake-usgs-gov:us:1000gbi4</id>
+        <title>M 6.5 - 109km NNW of Kampungbajo, Indonesia</title>
+        <updated>2018-08-19T05:39:20.851Z</updated>
+        <link rel="alternate" type="text/html" href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gbi4"/>
+        <summary type="html">
+            <![CDATA[
+<p class="quicksummary"><a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gbi4#pager" title="PAGER estimated impact alert level" class="pager-green">PAGER - <strong class="roman">GREEN</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gbi4#shakemap" title="ShakeMap maximum estimated intensity" class="mmi-III">ShakeMap - <strong class="roman">III</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gbi4#dyfi" class="mmi-IV" title="Did You Feel It? maximum reported intensity (121 reports)">DYFI? - <strong class="roman">IV</strong></a></p><dl><dt>Time</dt><dd>2018-08-17 15:35:02 UTC</dd><dd>2018-08-17 23:35:02 +08:00 at epicenter</dd><dt>Location</dt><dd>7.414&deg;S 119.819&deg;E</dd><dt>Depth</dt><dd>538.68 km (334.72 mi)</dd></dl>
+]]>
+        </summary>
+        <georss:point>-7.4139 119.819</georss:point>
+        <georss:elev>-538680</georss:elev>
+        <category label="Age" term="Past Week"/>
+        <category label="Magnitude" term="Magnitude 6"/>
+        <category label="Contributor" term="us"/>
+        <category label="Author" term="us"/>
+    </entry>
+    <entry>
+        <id>urn:earthquake-usgs-gov:us:1000gaqv</id>
+        <title>M 6.3 - 250km SE of Iwo Jima, Japan</title>
+        <updated>2018-08-17T18:04:40.359Z</updated>
+        <link rel="alternate" type="text/html" href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gaqv"/>
+        <summary type="html">
+            <![CDATA[
+<p class="quicksummary"><a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gaqv#pager" title="PAGER estimated impact alert level" class="pager-green">PAGER - <strong class="roman">GREEN</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gaqv#shakemap" title="ShakeMap maximum estimated intensity" class="mmi-III">ShakeMap - <strong class="roman">III</strong></a></p><dl><dt>Time</dt><dd>2018-08-16 18:22:53 UTC</dd><dd>2018-08-17 04:22:53 +10:00 at epicenter</dd><dt>Location</dt><dd>23.436&deg;N 143.314&deg;E</dd><dt>Depth</dt><dd>20.00 km (12.43 mi)</dd></dl>
+]]>
+        </summary>
+        <georss:point>23.4356 143.3143</georss:point>
+        <georss:elev>-20000</georss:elev>
+        <category label="Age" term="Past Week"/>
+        <category label="Magnitude" term="Magnitude 6"/>
+        <category label="Contributor" term="us"/>
+        <category label="Author" term="us"/>
+    </entry>
+    <entry>
+        <id>urn:earthquake-usgs-gov:us:1000ga0z</id>
+        <title>M 6.6 - 50km S of Tanaga Volcano, Alaska</title>
+        <updated>2018-08-17T17:10:32.652Z</updated>
+        <link rel="alternate" type="text/html" href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000ga0z"/>
+        <summary type="html">
+            <![CDATA[
+<p class="quicksummary"><a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000ga0z#pager" title="PAGER estimated impact alert level" class="pager-green">PAGER - <strong class="roman">GREEN</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000ga0z#shakemap" title="ShakeMap maximum estimated intensity" class="mmi-VI">ShakeMap - <strong class="roman">VI</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000ga0z#dyfi" class="mmi-VI" title="Did You Feel It? maximum reported intensity (4 reports)">DYFI? - <strong class="roman">VI</strong></a> <a class="tsunamilogo" href="http://www.tsunami.gov/" title="Tsunami Warning Center"> <img src="https://earthquake.usgs.gov/earthquakes/feed/v1.0/images/tsunami-wave-warning.jpg" alt="Tsunami Warning Center"/></a></p><dl><dt>Time</dt><dd>2018-08-15 21:56:54 UTC</dd><dd>2018-08-15 11:56:54 -10:00 at epicenter</dd><dt>Location</dt><dd>51.435&deg;N 178.054&deg;W</dd><dt>Depth</dt><dd>20.00 km (12.43 mi)</dd></dl>
+]]>
+        </summary>
+        <georss:point>51.435 -178.0543</georss:point>
+        <georss:elev>-20000</georss:elev>
+        <category label="Age" term="Past Week"/>
+        <category label="Magnitude" term="Magnitude 6"/>
+        <category label="Contributor" term="us"/>
+        <category label="Author" term="us"/>
+    </entry>
+    <entry>
+        <id>urn:earthquake-usgs-gov:ci:38245496</id>
+        <title>M 4.4 - 7km NE of Aguanga, CA</title>
+        <updated>2018-08-19T08:51:27.816Z</updated>
+        <link rel="alternate" type="text/html" href="https://earthquake.usgs.gov/earthquakes/eventpage/ci38245496"/>
+        <summary type="html">
+            <![CDATA[
+<p class="quicksummary"><a href="https://earthquake.usgs.gov/earthquakes/eventpage/ci38245496#pager" title="PAGER estimated impact alert level" class="pager-green">PAGER - <strong class="roman">GREEN</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/ci38245496#shakemap" title="ShakeMap maximum estimated intensity" class="mmi-VI">ShakeMap - <strong class="roman">VI</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/ci38245496#dyfi" class="mmi-V" title="Did You Feel It? maximum reported intensity (4282 reports)">DYFI? - <strong class="roman">V</strong></a> <a class="tsunamilogo" href="http://www.tsunami.gov/" title="Tsunami Warning Center"> <img src="https://earthquake.usgs.gov/earthquakes/feed/v1.0/images/tsunami-wave-warning.jpg" alt="Tsunami Warning Center"/></a></p><dl><dt>Time</dt><dd>2018-08-15 01:24:26 UTC</dd><dd>2018-08-14 17:24:26 -08:00 at epicenter</dd><dt>Location</dt><dd>33.477&deg;N 116.803&deg;W</dd><dt>Depth</dt><dd>1.89 km (1.17 mi)</dd></dl>
+]]>
+        </summary>
+        <georss:point>33.4771667 -116.8033333</georss:point>
+        <georss:elev>-1890</georss:elev>
+        <category label="Age" term="Past Week"/>
+        <category label="Magnitude" term="Magnitude 4"/>
+        <category label="Contributor" term="ci"/>
+        <category label="Author" term="ci"/>
+    </entry>
+    <entry>
+        <id>urn:earthquake-usgs-gov:ak:20076877</id>
+        <title>M 6.3 - 84km SW of Kaktovik, Alaska</title>
+        <updated>2018-08-18T16:08:29.916Z</updated>
+        <link rel="alternate" type="text/html" href="https://earthquake.usgs.gov/earthquakes/eventpage/ak20076877"/>
+        <summary type="html">
+            <![CDATA[
+<p class="quicksummary"><a href="https://earthquake.usgs.gov/earthquakes/eventpage/ak20076877#pager" title="PAGER estimated impact alert level" class="pager-green">PAGER - <strong class="roman">GREEN</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/ak20076877#shakemap" title="ShakeMap maximum estimated intensity" class="mmi-VII">ShakeMap - <strong class="roman">VII</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/ak20076877#dyfi" class="mmi-V" title="Did You Feel It? maximum reported intensity (102 reports)">DYFI? - <strong class="roman">V</strong></a> <a class="tsunamilogo" href="http://www.tsunami.gov/" title="Tsunami Warning Center"> <img src="https://earthquake.usgs.gov/earthquakes/feed/v1.0/images/tsunami-wave-warning.jpg" alt="Tsunami Warning Center"/></a></p><dl><dt>Time</dt><dd>2018-08-12 14:58:54 UTC</dd><dd>2018-08-12 05:58:54 -09:00 at epicenter</dd><dt>Location</dt><dd>69.562&deg;N 145.300&deg;W</dd><dt>Depth</dt><dd>2.20 km (1.37 mi)</dd></dl>
+]]>
+        </summary>
+        <georss:point>69.5619 -145.2998</georss:point>
+        <georss:elev>-2200</georss:elev>
+        <category label="Age" term="Past Week"/>
+        <category label="Magnitude" term="Magnitude 6"/>
+        <category label="Contributor" term="ak"/>
+        <category label="Author" term="ak"/>
+    </entry>
+    <entry>
+        <id>urn:earthquake-usgs-gov:us:1000g5n1</id>
+        <title>M 5.9 - 3km SE of Todo, Indonesia</title>
+        <updated>2018-08-19T05:14:38.008Z</updated>
+        <link rel="alternate" type="text/html" href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000g5n1"/>
+        <summary type="html">
+            <![CDATA[
+<p class="quicksummary"><a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000g5n1#pager" title="PAGER estimated impact alert level" class="pager-green">PAGER - <strong class="roman">GREEN</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000g5n1#shakemap" title="ShakeMap maximum estimated intensity" class="mmi-VII">ShakeMap - <strong class="roman">VII</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000g5n1#dyfi" class="mmi-VII" title="Did You Feel It? maximum reported intensity (231 reports)">DYFI? - <strong class="roman">VII</strong></a> <a class="tsunamilogo" href="http://www.tsunami.gov/" title="Tsunami Warning Center"> <img src="https://earthquake.usgs.gov/earthquakes/feed/v1.0/images/tsunami-wave-warning.jpg" alt="Tsunami Warning Center"/></a></p><dl><dt>Time</dt><dd>2018-08-09 05:25:31 UTC</dd><dd>2018-08-09 13:25:31 +08:00 at epicenter</dd><dt>Location</dt><dd>8.394&deg;S 116.208&deg;E</dd><dt>Depth</dt><dd>10.00 km (6.21 mi)</dd></dl>
+]]>
+        </summary>
+        <georss:point>-8.3939 116.2078</georss:point>
+        <georss:elev>-10000</georss:elev>
+        <category label="Age" term="Past Month"/>
+        <category label="Magnitude" term="Magnitude 5"/>
+        <category label="Contributor" term="us"/>
+        <category label="Author" term="us"/>
+    </entry>
+    <entry>
+        <id>urn:earthquake-usgs-gov:us:1000g3ub</id>
+        <title>M 6.9 - 0km SW of Loloan, Indonesia</title>
+        <updated>2018-08-19T08:36:41.890Z</updated>
+        <link rel="alternate" type="text/html" href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000g3ub"/>
+        <summary type="html">
+            <![CDATA[
+<p class="quicksummary"><a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000g3ub#pager" title="PAGER estimated impact alert level" class="pager-orange">PAGER - <strong class="roman">ORANGE</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000g3ub#shakemap" title="ShakeMap maximum estimated intensity" class="mmi-VIII">ShakeMap - <strong class="roman">VIII</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000g3ub#dyfi" class="mmi-VIII" title="Did You Feel It? maximum reported intensity (886 reports)">DYFI? - <strong class="roman">VIII</strong></a> <a class="tsunamilogo" href="http://www.tsunami.gov/" title="Tsunami Warning Center"> <img src="https://earthquake.usgs.gov/earthquakes/feed/v1.0/images/tsunami-wave-warning.jpg" alt="Tsunami Warning Center"/></a></p><dl><dt>Time</dt><dd>2018-08-05 11:46:38 UTC</dd><dd>2018-08-05 19:46:38 +08:00 at epicenter</dd><dt>Location</dt><dd>8.260&deg;S 116.436&deg;E</dd><dt>Depth</dt><dd>31.00 km (19.26 mi)</dd></dl>
+]]>
+        </summary>
+        <georss:point>-8.2597 116.4363</georss:point>
+        <georss:elev>-31000</georss:elev>
+        <category label="Age" term="Past Month"/>
+        <category label="Magnitude" term="Magnitude 6"/>
+        <category label="Contributor" term="us"/>
+        <category label="Author" term="us"/>
+    </entry>
+    <entry>
+        <id>urn:earthquake-usgs-gov:nc:73061391</id>
+        <title>M 3.7 - 10km ESE of Black Point-Green Point, CA</title>
+        <updated>2018-08-19T03:26:55.017Z</updated>
+        <link rel="alternate" type="text/html" href="https://earthquake.usgs.gov/earthquakes/eventpage/nc73061391"/>
+        <summary type="html">
+            <![CDATA[
+<p class="quicksummary"><a href="https://earthquake.usgs.gov/earthquakes/eventpage/nc73061391#shakemap" title="ShakeMap maximum estimated intensity" class="mmi-IV">ShakeMap - <strong class="roman">IV</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/nc73061391#dyfi" class="mmi-IV" title="Did You Feel It? maximum reported intensity (4333 reports)">DYFI? - <strong class="roman">IV</strong></a></p><dl><dt>Time</dt><dd>2018-07-30 22:22:53 UTC</dd><dd>2018-07-30 14:22:53 -08:00 at epicenter</dd><dt>Location</dt><dd>38.083&deg;N 122.410&deg;W</dd><dt>Depth</dt><dd>11.95 km (7.43 mi)</dd></dl>
+]]>
+        </summary>
+        <georss:point>38.0828333 -122.4096667</georss:point>
+        <georss:elev>-11950</georss:elev>
+        <category label="Age" term="Past Month"/>
+        <category label="Magnitude" term="Magnitude 3"/>
+        <category label="Contributor" term="nc"/>
+        <category label="Author" term="nc"/>
+    </entry>
+    <entry>
+        <id>urn:earthquake-usgs-gov:us:2000ggbs</id>
+        <title>M 6.4 - 5km WNW of Obelobel, Indonesia</title>
+        <updated>2018-08-10T21:45:29.529Z</updated>
+        <link rel="alternate" type="text/html" href="https://earthquake.usgs.gov/earthquakes/eventpage/us2000ggbs"/>
+        <summary type="html">
+            <![CDATA[
+<p class="quicksummary"><a href="https://earthquake.usgs.gov/earthquakes/eventpage/us2000ggbs#pager" title="PAGER estimated impact alert level" class="pager-yellow">PAGER - <strong class="roman">YELLOW</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us2000ggbs#shakemap" title="ShakeMap maximum estimated intensity" class="mmi-VII">ShakeMap - <strong class="roman">VII</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us2000ggbs#dyfi" class="mmi-VI" title="Did You Feel It? maximum reported intensity (404 reports)">DYFI? - <strong class="roman">VI</strong></a> <a class="tsunamilogo" href="http://www.tsunami.gov/" title="Tsunami Warning Center"> <img src="https://earthquake.usgs.gov/earthquakes/feed/v1.0/images/tsunami-wave-warning.jpg" alt="Tsunami Warning Center"/></a></p><dl><dt>Time</dt><dd>2018-07-28 22:47:38 UTC</dd><dd>2018-07-29 06:47:38 +08:00 at epicenter</dd><dt>Location</dt><dd>8.240&deg;S 116.508&deg;E</dd><dt>Depth</dt><dd>14.00 km (8.70 mi)</dd></dl>
+]]>
+        </summary>
+        <georss:point>-8.2395 116.508</georss:point>
+        <georss:elev>-14000</georss:elev>
+        <category label="Age" term="Past Month"/>
+        <category label="Magnitude" term="Magnitude 6"/>
+        <category label="Contributor" term="us"/>
+        <category label="Author" term="us"/>
+    </entry>
+</feed>

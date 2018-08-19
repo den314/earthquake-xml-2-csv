@@ -1,0 +1,13 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss">
+    <title>USGS Significant Earthquakes, Past Month</title>
+    <updated>2018-08-19T09:56:17Z</updated>
+    <author>
+        <name>U.S. Geological Survey</name>
+        <uri>https://earthquake.usgs.gov/</uri>
+    </author>
+    <id>
+        https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.atom
+    </id>
+    <link rel="self" href="https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.atom"/>
+    <icon>https://earthquake.usgs.gov/favicon.ico</icon>
+</feed>

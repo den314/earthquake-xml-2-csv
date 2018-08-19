@@ -1,0 +1,47 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss">
+    <title>USGS Significant Earthquakes, Past Month</title>
+    <updated>2018-08-19T09:56:17Z</updated>
+    <author>
+        <name>U.S. Geological Survey</name>
+        <uri>https://earthquake.usgs.gov/</uri>
+    </author>
+    <id>
+        https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.atom
+    </id>
+    <link rel="self" href="https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.atom"/>
+    <icon>https://earthquake.usgs.gov/favicon.ico</icon>
+    <entry>
+        <id>urn:earthquake-usgs-gov:us:1000gcwt</id>
+        <title>M 6.8 - 282km ESE of Lambasa, Fiji</title>
+        <updated>2018-08-19T06:31:54.939Z</updated>
+        <link rel="alternate" type="text/html" href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gcwt"/>
+        <summary type="html">
+            <![CDATA[
+<p class="quicksummary"><a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gcwt#pager" title="PAGER estimated impact alert level" class="pager-green">PAGER - <strong class="roman">GREEN</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gcwt#shakemap" title="ShakeMap maximum estimated intensity" class="mmi-III">ShakeMap - <strong class="roman">III</strong></a> <a class="tsunamilogo" href="http://www.tsunami.gov/" title="Tsunami Warning Center"> <img src="https://earthquake.usgs.gov/earthquakes/feed/v1.0/images/tsunami-wave-warning.jpg" alt="Tsunami Warning Center"/></a></p><dl><dt>Time</dt><dd>2018-08-19 04:28:59 UTC</dd><dd>2018-08-18 16:28:59 -12:00 at epicenter</dd><dt>Location</dt><dd>16.951&deg;S 178.022&deg;W</dd><dt>Depth</dt><dd>422.83 km (262.73 mi)</dd></dl>
+]]>
+        </summary>
+        <georss:point>-16.951 -178.0223</georss:point>
+        <georss:elev>-422830</georss:elev>
+        <category label="Age" term="Past Day"/>
+        <category label="Magnitude" term="Magnitude 6"/>
+        <category label="Contributor" term="us"/>
+        <category label="Author" term="us"/>
+    </entry>
+    <entry>
+        <id>urn:earthquake-usgs-gov:us:1000gcvr</id>
+        <title>M 6.3 - 6km NE of Sembalunlawang, Indonesia</title>
+        <updated>2018-08-19T09:31:58.597Z</updated>
+        <link rel="alternate" type="text/html" href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gcvr"/>
+        <summary type="html">
+            <![CDATA[
+<p class="quicksummary"><a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gcvr#pager" title="PAGER estimated impact alert level" class="pager-green">PAGER - <strong class="roman">GREEN</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gcvr#shakemap" title="ShakeMap maximum estimated intensity" class="mmi-VII">ShakeMap - <strong class="roman">VII</strong></a> <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us1000gcvr#dyfi" class="mmi-IV" title="Did You Feel It? maximum reported intensity (72 reports)">DYFI? - <strong class="roman">IV</strong></a> <a class="tsunamilogo" href="http://www.tsunami.gov/" title="Tsunami Warning Center"> <img src="https://earthquake.usgs.gov/earthquakes/feed/v1.0/images/tsunami-wave-warning.jpg" alt="Tsunami Warning Center"/></a></p><dl><dt>Time</dt><dd>2018-08-19 04:10:21 UTC</dd><dd>2018-08-19 12:10:21 +08:00 at epicenter</dd><dt>Location</dt><dd>8.325&deg;S 116.577&deg;E</dd><dt>Depth</dt><dd>7.91 km (4.92 mi)</dd></dl>
+]]>
+        </summary>
+        <georss:point>-8.3246 116.5765</georss:point>
+        <georss:elev>-7910</georss:elev>
+        <category label="Age" term="Past Day"/>
+        <category label="Magnitude" term="Magnitude 6"/>
+        <category label="Contributor" term="us"/>
+        <category label="Author" term="us"/>
+    </entry>
+</feed>
